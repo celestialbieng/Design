@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("../images/Screenshot\ 2024-09-14\ at\ 2.04.07\ AM.png");
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("file:///Users/yafietmihreteab/Desktop/projects/Website%20Design/resources/images/Screenshot%202024-09-14%20at%202.04.07%20AM.png");
     background-position: center;
     background-size: cover;
     height: 100vh;
